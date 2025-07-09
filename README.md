@@ -3,13 +3,13 @@
 Welcome to my GitHub profile! I'm a Mechanical Engineer. Here, you'll find some of my projects, research, and contributions.
 
 ### 🛠️ Skills
-- *Engineering*: CAD, FEA, Additive Manufacturing, CNC Machining
-- *Programming*: Python, TypeScript, MATLAB, C, C++
-- *Software*: Autodesk Inventor, Fusion 360, Ansys Zemax Optics Studio, Altium Circuit Maker
+- *Engineering*: CAD, Ansys Mechanical
+- *Programming*: Python, MATLAB, C, C++
+- *Software*: AutoCAD, Creo Parametric, COMSOL Multiphysics, Fusion 360, SOLIDWORKS
 
 ### 🌱 Learning
-- Advanced optics and imaging techniques
-- High-performance computing for engineering simulations
+- Dynamics, control and stability of mechanical systems
+- Integration of Machine Learning and AI for mechanical engineering applications.
 
 ### 📫 Contact Me
 - *Email*: [f20212901@hyderabad.bits-pilani.ac.in](mailto:f20212901@hyderabad.bits-pilani.ac.in)
