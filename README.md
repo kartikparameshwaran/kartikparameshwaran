@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hello, I'm Kartik Parameshwaran!
 
-<!--
-**kartikparameshwaran/kartikparameshwaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Mechanical Engineer. Here, you'll find some of my projects, research, and contributions.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- *Engineering*: CAD, FEA, Additive Manufacturing, CNC Machining
+- *Programming*: Python, TypeScript, MATLAB, C, C++
+- *Software*: Autodesk Inventor, Fusion 360, Ansys Zemax Optics Studio, Altium Circuit Maker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning
+- Advanced optics and imaging techniques
+- High-performance computing for engineering simulations
+
+### 📫 Contact Me
+- *Email*: [f20212901@hyderabad.bits-pilani.ac.in](mailto:f20212901@hyderabad.bits-pilani.ac.in)
+- *LinkedIn*: [https://www.linkedin.com/in/kartparam/](https://www.linkedin.com/in/kartparam/)
+  
