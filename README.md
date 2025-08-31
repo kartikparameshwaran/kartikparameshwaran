@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I'm a Mechanical Engineer. Here, you'll find some 
 - Integration of Machine Learning and AI for mechanical engineering applications.
 
 ### 📫 Contact Me
-- *Email*: [f20212901@hyderabad.bits-pilani.ac.in](mailto:f20212901@hyderabad.bits-pilani.ac.in)
+- *Email*: [kp3932@nyu.edu](mailto:f20212901@hyderabad.bits-pilani.ac.in)
 - *LinkedIn*: [https://www.linkedin.com/in/kartparam/](https://www.linkedin.com/in/kartparam/)
   
